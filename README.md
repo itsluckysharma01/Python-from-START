@@ -6,9 +6,9 @@ Welcome to the Data Curation Using Python. This introductory notebook is designe
 
 As I am currently learning Data Curation, this will be an easy, readable file for good practice and learning. This file has a Code with a heading that helps to understand the code.
 
-📘 Overview
+📘 TOPICS COVERED:
 
-👨‍💻 -----------01_Lucky_Sharma_DataCuration file notebook includes include:----------👨‍💻 
+👨‍💻 -----------01_Lucky_Sharma_DataCuration file notebook includes include:----------👨‍💻
 
 Key Concepts Covered: --
 
@@ -29,6 +29,12 @@ Tuple
 Dictionary
 
 String
+
+Sets
+
+--------------------------📘----------------------👨‍💻-MODULES:-👨‍💻---------------📘-----------------------------------------
+
+NumPy
 
 Output:---
 
