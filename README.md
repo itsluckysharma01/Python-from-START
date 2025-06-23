@@ -36,6 +36,10 @@ Sets
 
 NumPy
 
+Pandas
+
+Matplotlib
+
 Output:---
 
 Displaying outputs in a readable format.
