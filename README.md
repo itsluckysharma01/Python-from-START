@@ -40,6 +40,8 @@ Pandas
 
 Matplotlib
 
+Seaborn
+
 Output:---
 
 Displaying outputs in a readable format.
