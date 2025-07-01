@@ -40,16 +40,20 @@ Pandas
 
 Matplotlib
 
+Seaborn
+
 Output:---
 
 Displaying outputs in a readable format.
 
 
 🛠️ Requirements
+
 This notebook is designed for Google Colab. No additional setup is needed—just open and run.
 
 You can also do it in Jupyter Notebook .
 
 📌 Author
+
 Lucky Sharma
-Beginner Python learner and data science enthusiast.
+Python learner and data science enthusiast.
