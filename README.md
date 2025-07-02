@@ -1,7 +1,8 @@
 # Python-Data-Curation-
 
 # Python
- Data Curation Using Python 
+
+Data Curation Using Python
 Welcome to the Data Curation Using Python. This introductory notebook is designed for beginners who are starting their journey with Python, especially in the context of data science and data handling.
 
 As I am currently learning Data Curation, this will be an easy, readable file for good practice and learning. This file has a Code with a heading that helps to understand the code.
@@ -42,10 +43,11 @@ Matplotlib
 
 Seaborn
 
+NLTP
+
 Output:---
 
 Displaying outputs in a readable format.
-
 
 🛠️ Requirements
 
