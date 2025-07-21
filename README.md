@@ -43,7 +43,9 @@ Matplotlib
 
 Seaborn
 
-NLTP
+NLP
+
+Scikit-Learn
 
 Output:---
 
