@@ -47,6 +47,14 @@ NLP
 
 Scikit-Learn
 
+Machine Learning
+
+Deep Learning
+
+TensorFlow
+
+Keras
+
 Output:---
 
 Displaying outputs in a readable format.
