@@ -1,6 +1,6 @@
-# Python-Data-Curation-
+# 👨‍💻👨‍💻Python👨‍💻👨‍💻
 
-# Python
+# Python From Beginning 
 
 Data Curation Using Python
 Welcome to the Data Curation Using Python. This introductory notebook is designed for beginners who are starting their journey with Python, especially in the context of data science and data handling.
@@ -14,6 +14,8 @@ As I am currently learning Data Curation, this will be an easy, readable file fo
 Key Concepts Covered: --
 
 Introduction to basic Python.
+
+Data types and Vatiables
 
 Assignment Questions
 
