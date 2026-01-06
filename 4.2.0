@@ -1,0 +1,20 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting nbformat
+  Using cached nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting fastjsonschema>=2.15 (from nbformat)
+  Downloading fastjsonschema-2.21.2-py3-none-any.whl.metadata (2.3 kB)
+Requirement already satisfied: jsonschema>=2.6 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from nbformat) (4.25.1)
+Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from nbformat) (5.8.1)
+Requirement already satisfied: traitlets>=5.1 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from nbformat) (5.14.3)
+Requirement already satisfied: attrs>=22.2.0 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jsonschema>=2.6->nbformat) (25.4.0)
+Requirement already satisfied: jsonschema-specifications>=2023.03.6 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jsonschema>=2.6->nbformat) (2025.9.1)
+Requirement already satisfied: referencing>=0.28.4 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jsonschema>=2.6->nbformat) (0.37.0)
+Requirement already satisfied: rpds-py>=0.7.1 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jsonschema>=2.6->nbformat) (0.30.0)
+Requirement already satisfied: platformdirs>=2.5 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (4.5.0)
+Requirement already satisfied: pywin32>=300 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (311)
+Requirement already satisfied: typing-extensions>=4.4.0 in c:\users\pandit ji\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from referencing>=0.28.4->jsonschema>=2.6->nbformat) (4.15.0)
+Using cached nbformat-5.10.4-py3-none-any.whl (78 kB)
+Downloading fastjsonschema-2.21.2-py3-none-any.whl (24 kB)
+Installing collected packages: fastjsonschema, nbformat
+
+Successfully installed fastjsonschema-2.21.2 nbformat-5.10.4
