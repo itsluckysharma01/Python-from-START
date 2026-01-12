@@ -29,9 +29,9 @@ This repository contains comprehensive Jupyter notebooks covering the complete M
 ✅ Data Manipulation & Analysis (Pandas, NumPy)  
 ✅ Data Visualization (Matplotlib, Seaborn, Plotly)  
 ✅ Statistical Analysis for ML  
-✅ Machine Learning Algorithms  
-✅ Natural Language Processing (NLP)  
-✅ Computer Vision & Object Detection  
+✅ Machine Learning Algorithms
+✅ Natural Language Processing (NLP)
+✅ Computer Vision & Object Detection
 ✅ Deep Learning Frameworks
 
 ---
